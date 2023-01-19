@@ -21,4 +21,5 @@ NOTE: Assignment 1 is separate from bonus opportunity 1 and 3. The examples get 
     - error messages)
 
 dog.jpg: https://www.theviralist.com/2020/03/18/cutest-puppies-playing-outside/
+
 Mathworks File Exchange: https://www.mathworks.com/matlabcentral/fileexchange/123525-cot5930_assignment1
